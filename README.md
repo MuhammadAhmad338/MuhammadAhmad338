@@ -4,7 +4,7 @@ Full Stack & Mobile Application Developer focused on building scalable web, mobi
 
 ## 🚀 What I Work With
 
-**Mobile**
+### 📱 Mobile
 - Flutter
 - Dart
 - Firebase
@@ -12,20 +12,20 @@ Full Stack & Mobile Application Developer focused on building scalable web, mobi
 - Riverpod
 - Provider
 
-**Frontend**
+### 🌐 Frontend
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
 
-**Backend**
+### ⚙️ Backend
 - Node.js
 - Express.js
 - NestJS
 - MongoDB
 - PostgreSQL
 
-**Cloud & DevOps**
+### ☁️ Cloud & DevOps
 - Microsoft Azure
 - AWS
 - Docker
@@ -33,21 +33,7 @@ Full Stack & Mobile Application Developer focused on building scalable web, mobi
 - GitHub Actions
 - Vercel
 
-## 🛠 Featured Projects
-
-### FoodDash
-Full food-ordering ecosystem with customer and restaurant apps, an admin dashboard, real-time order updates, Stripe payments, and a Node.js backend.
-
-### LoomFlow
-Textile business management platform covering inventory, suppliers, customers, purchases, sales, production workflows, employees, and analytics.
-
-### DevKit
-Developer productivity platform containing utilities for Base64, UUIDs, JWTs, timestamps, networking, SEO, and text processing.
-
-### Resumely
-Modern web-based resume builder built with Next.js.
-
-## ☁️ Currently Learning
+## 📚 Currently Learning
 
 - Microsoft Azure
 - Cloud Architecture
@@ -58,4 +44,4 @@ Modern web-based resume builder built with Next.js.
 
 ## 📫 Contact
 
-Email: ahmadmuhammad.7700@gmail.com
+**Email:** ahmadmuhammad.7700@gmail.com
