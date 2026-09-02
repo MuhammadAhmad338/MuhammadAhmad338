@@ -37,7 +37,7 @@ I build cross‑platform mobile apps and full‑stack web applications with a fo
 
 ## 📬 Contact
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- Portfolio: https://your-portfolio.com
+- GitHub: https://github.com/MuhammadAhmad338
+- Email: ahmadmuhammad.7700@gmail.com
+- LinkedIn: www.linkedin.com/in/muhammad-ahmad-9005a6253
+- Portfolio: https://ahmadmuhammadportfolio.netlify.app/
